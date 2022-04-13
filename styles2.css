@@ -1,0 +1,75 @@
+
+
+html,body{
+    height: 100%;
+    background-color: #464646;
+    background:url(pictures/multbridge.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center
+}
+
+.text-carolina{
+    color:#009FFD;
+}
+
+.max{
+    max-width: 600px;
+    max-height: 100%;
+}
+
+.list{
+    list-style-type: none;
+}
+
+.main{
+    padding-top: 30vh;
+}
+
+.background-mustard{
+    background-color: #e1ad01;
+    
+}
+
+.background-terra{
+    background-color: #b84221;
+
+}
+
+.text-mustard{
+    color: #e1ad01;
+    text-decoration: none;
+
+}
+a.text-mustard:hover{
+    color:#b84221
+}
+
+a.navbar-text:hover{
+    color:#b84221
+}
+
+.text-terra{
+    color: #b84221;
+    text-decoration: none;
+}
+
+.nav-center{
+    padding: 8px;
+    text-align: center;
+}
+
+.navbar-custom{
+    color:#e1ad01;
+    background-color:#464646; 
+    text-decoration: none;  
+    
+}
+
+.navbar-text{
+    color: #e1ad01;
+    text-decoration: none;
+    padding:.5rem;
+}
+
