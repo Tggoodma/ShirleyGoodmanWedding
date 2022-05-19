@@ -10,9 +10,7 @@ html,body{
     background-position: center center
 }
 
-.text-carolina{
-    color:#009FFD;
-}
+
 
 .max{
     max-width: 600px;
@@ -43,21 +41,17 @@ html,body{
 
 }
 a.text-mustard:hover{
-    color:#b84221
+    color:#b84221;
+    font-style: italic;
 }
 
 a.navbar-text:hover{
-    color:#b84221
+    color:#47A8BD
 }
 
 .text-terra{
     color: #b84221;
     text-decoration: none;
-}
-
-.nav-center{
-    padding: 8px;
-    text-align: center;
 }
 
 .navbar-custom{
@@ -68,8 +62,11 @@ a.navbar-text:hover{
 }
 
 .navbar-text{
-    color: #e1ad01;
+    color:white;
     text-decoration: none;
     padding:.5rem;
 }
 
+h6{
+    color: #e1ad01;
+}
